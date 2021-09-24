@@ -1,10 +1,3 @@
-<!--
- * @Description  : 
- * @Author       : pacino
- * @Date         : 2021-09-22 17:10:44
- * @LastEditTime : 2021-09-23 14:44:54
- * @LastEditors  : pacino
--->
 <template>
     <view class="content">
         <image class="logo" src="/static/logo.png"></image>

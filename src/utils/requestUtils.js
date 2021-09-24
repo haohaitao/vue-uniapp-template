@@ -1,10 +1,3 @@
-/*
- * @Description  : 网络请求基础配置
- * @Author       : pacino
- * @Date         : 2021-09-22 17:38:45
- * @LastEditTime : 2021-09-23 14:46:44
- * @LastEditors  : pacino
- */
 import Request from 'luch-request';
 
 const pro = false; //是否为生产环境
